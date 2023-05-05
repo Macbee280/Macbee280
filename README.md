@@ -7,7 +7,7 @@ Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
 
 ## Skills
 - Natural Language Processing (NLP)
-- Natural Language Understanding (NLP)
+- Natural Language Understanding (NLU)
 - Kubernetes
 - Linux
 - Network Infrastructure
