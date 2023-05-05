@@ -14,7 +14,7 @@ Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
 - Python
 - C++
 - SQL
-- MatLab
+- MATLAB
 
 ## Work Experience
 ### Kennedy Catholic High School, Infrastructure Specialist, Sep 2020 - August 2022
