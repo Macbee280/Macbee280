@@ -1,6 +1,6 @@
 # Gabe DiMartino - Computer Engineer
 ## Introduction
-Hi there! My name is Gabe DiMartino and I'm a Computer Engineering undergraduate with extensive experience in NLP, Kubernetes, Linux, and network infrastructure. I'm passionate about solving complex problems using technology and pushing the boundaries of what's possible. I'm always eager to learn and collaborate with others.
+Hello there! My name is Gabe DiMartino and I'm a Computer Engineering undergraduate with extensive experience in NLP, Kubernetes, Linux, and network infrastructure. I'm passionate about solving complex problems using technology and pushing the boundaries of what's possible. I'm always eager to learn and collaborate with others.
 
 ## Education
 Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
