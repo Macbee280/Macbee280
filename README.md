@@ -25,7 +25,8 @@ Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
 - Trained future interns
 ### Gonzaga University, Network Technition, August 2022 - Present
 - Monitor wired and wireless network infrastructure using industry-leading applications, such as Solarwinds NPM and Aruba AirWave. Collaborate with other team leads from the technology department in ensuring an optimal network experience for students, staff, faculty, and guests. Assist with planning, configuring, and installing network infrastructure as part of a multi-million dollar network upgrade.
-
+### Pangeon LLC, Machine Learning Researcher, September 2023 - Present
+- Working as a member of a machine translation project, combining AI Type 1 (Neural Networks) and Type 2 (Symbolics).
 ## Projects
 ### Madd-E, Team Leader, Oct 15, 2022
 - Participated in the GU Hackathon where we placed 2nd for our Madlib generator using AI image recogniton.
@@ -39,10 +40,10 @@ Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
 - NLP, NLU, Python, Machine Learning
 - https://github.com/Macbee280/CrimsonCode2023
 - https://devpost.com/software/artificial-intelligence-personal-assistant
-### CPSC121 Projects, Student, January - May 2023
-- Selection of CPSC121 projects for Gonzaga University
-- C++
--(https://github.com/Macbee280/CPSC121)
+### Enter the ByteLands, Fullstack Dev, November 04, 2023
+- Participated in the GU Hackathon where we placed 2nd for our AI simulated civilization game.
+- Python
+-(https://github.com/Macbee280/ByteLand)
 ### Kubernetes Cluster, Team Leader, February 2022
 - Created a K3s cluster of 10 PCs and using Rancher, ran several instances of Folding@Home
 - K3s, Rancher, Docker, Helm Charts, Linux
