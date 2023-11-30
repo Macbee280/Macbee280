@@ -42,8 +42,8 @@ Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
 - https://devpost.com/software/artificial-intelligence-personal-assistant
 ### Enter the ByteLands, Fullstack Dev, November 04, 2023
 - Participated in the GU Hackathon where we placed 2nd for our AI simulated civilization game.
-- Python
--(https://github.com/Macbee280/ByteLand)
+- Python, OpenAI
+- https://github.com/Macbee280/ByteLand
 ### Kubernetes Cluster, Team Leader, February 2022
 - Created a K3s cluster of 10 PCs and using Rancher, ran several instances of Folding@Home
 - K3s, Rancher, Docker, Helm Charts, Linux
