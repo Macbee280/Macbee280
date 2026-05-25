@@ -1,63 +1,107 @@
-# Gabe DiMartino - Computer Engineer
-## Introduction
-Hello there! My name is Gabe DiMartino and I'm a Computer Engineering undergraduate with extensive experience in NLP, Kubernetes, Linux, and network infrastructure. I'm passionate about solving complex problems using technology and pushing the boundaries of what's possible. I'm always eager to learn and collaborate with others.
+<div align="center">
 
-## Education
-Bachelor of Science in Computer Engineering, Gonzaga University, May 2026
+<pre>
+┌──────────────────────────────────────────────────────────────────┐
+│  ● ● ●   gabe@localhost: ~                                       │
+├──────────────────────────────────────────────────────────────────┤
+│ 1: profile  2: work  3: writing  4: photos  5: about             │
+└──────────────────────────────────────────────────────────────────┘
+</pre>
 
-## Skills
-- Natural Language Processing (NLP)
-- Natural Language Understanding (NLU)
-- Kubernetes
-- Linux
-- Network Infrastructure
-- Python
-- C++
-- SQL
-- MATLAB
+</div>
 
-## Work Experience
-### Kennedy Catholic High School, Infrastructure Specialist, Sep 2020 - August 2022
-- Designed and implemented Kubernetes clusters for high availability and scalability
-- Configured and optimized Linux and windows servers for various applications
-- Managed network infrastructure, including firewalls, switches, and routers
-- Collaborated with cross-functional teams to develop and deploy software solutions
-- Trained future interns
-### Gonzaga University, Network Technition, August 2022 - Present
-- Monitor wired and wireless network infrastructure using industry-leading applications, such as Solarwinds NPM and Aruba AirWave. Collaborate with other team leads from the technology department in ensuring an optimal network experience for students, staff, faculty, and guests. Assist with planning, configuring, and installing network infrastructure as part of a multi-million dollar network upgrade.
-### Pangeon LLC, Machine Learning Researcher, September 2023 - Present
-- Working as a member of a machine translation project, combining AI Type 1 (Neural Networks) and Type 2 (Symbolics).
-## Projects
-### Madd-E, Team Leader, Oct 15, 2022
-- Participated in the GU Hackathon where we placed 2nd for our Madlib generator using AI image recogniton.
-- C++, Python, DepthAI
-- https://github.com/Macbee280/Madd-E
-### Spokane Cyber Cup IV, Team Leader, February 11, 2023
-- Participated in a CTF where my team placed 3rd in the lower division for completing 80% of the challenges
-- SQL injection, Python, C++, Cryptography, OSINT, Linux Privilege Escalation, WireShark, and TCP IP based challenges.
-### Crimson Code Moll-E, Team Leader, February 18, 2023
-- Participated in the WSU Crimson Code hackathon where we placed 1st for our working AI assistant based on JARVIS from Iron MAn
-- NLP, NLU, Python, Machine Learning
-- https://github.com/Macbee280/CrimsonCode2023
-- https://devpost.com/software/artificial-intelligence-personal-assistant
-### Enter the ByteLands, Fullstack Dev, November 04, 2023
-- Participated in the GU Hackathon where we placed 2nd for our AI simulated civilization game.
-- Python, OpenAI
-- https://github.com/Macbee280/ByteLand
-### Kubernetes Cluster, Team Leader, February 2022
-- Created a K3s cluster of 10 PCs and using Rancher, ran several instances of Folding@Home
-- K3s, Rancher, Docker, Helm Charts, Linux
-- https://stats.foldingathome.org/team/1063060
+```
+gabe@localhost:~$ whoami
+gabriel dimartino — computer engineer · neuromorphic researcher
+spokane, wa · finishing b.s. computer engineering at gonzaga · grad may 2026
+```
 
-## Interests
-- Open source software
-- Artificial Intelligence
-- Machine Learning
-- Kubernetes
-- Robotics
+```
+gabe@localhost:~$ cat intro.md
+```
 
-## Contact Information
-- Email: gdimartino@gabedimartino.com
-- Website: https://www.gabedimartino.com
-- LinkedIn: https://www.linkedin.com/in/gabe-dimartino-5aa13b267
-- GitHub: https://www.github.com/macbee280
+I design analog spiking-neuron circuits in 130nm BiCMOS, write the EDA tools
+to lay them out, and run a 12-node neuromorphic compute cluster I built in
+my apartment. Also: federated identity infrastructure for nonprofits, smart-
+metering sensor boards for utility companies, and occasionally a coffee
+machine FSM in SystemVerilog when a class demands it.
+
+The full portfolio lives at **[gabedimartino.com](https://gabedimartino.com)**.
+
+---
+
+```
+gabe@localhost:~$ ls -lh work/  # selected, recent first
+```
+
+| year   | project | what it is | status |
+|--------|---------|------------|--------|
+| 2026   | **[NeuroMatrix](https://gabedimartino.com/work/neuromatrix)** | 25,100-neuron hierarchical SNN validated in IHP SG13G2 130nm BiCMOS. 96% of Hopfield capacity, 82% cued recall. | `MWSCAS 2026 paper · submitted` |
+| 2025–  | **[Fabrica](https://gabedimartino.com/work/fabrica)** | Three-tier analog EDA framework (behavioral → EKV 2.6 → PSP 103.6) sharing one Circuit IR. C++/Rust/Python. | `active · 345+ tests` |
+| 2024–  | **[Ensemble Identity](https://gabedimartino.com/work/ensemble)** | Multi-tenant OAuth/OIDC platform on SvelteKit + Cloudflare Workers + D1. 8,319 users across 650+ cultural orgs. | `production` |
+| 2025   | **[EN-59](https://gabedimartino.com/work/en-59)** | Universal sensor board for smart utility metering. Sub-2 µA quiescent, Apollo3 Blue BGA, 4-layer mixed-signal. | `in mfg · Itron capstone` |
+| 2024–  | **[NCS Cluster](https://gabedimartino.com/work/ncs-cluster)** | 12-node neuromorphic compute cluster in my apartment. 12U rack, ~600W under load. | `ongoing · home-built` |
+
+Full archive: **[gabedimartino.com/work](https://gabedimartino.com/work)**
+
+---
+
+```
+gabe@localhost:~$ man gabe
+```
+
+```
+NAME       gabe — computer engineer, neuromorphic researcher
+
+WHAT I DO
+  HARDWARE   analog VLSI · subthreshold CMOS · Mead-style LIF neurons
+             4-layer mixed-signal PCB · BGA fanout · OrCAD Allegro
+             IHP SG13G2 PDK · EKV 2.6 + PSP 103.6 compact models
+
+  TOOLCHAIN  EDA framework design · sparse linear solvers (ILU+BiCGSTAB)
+             analytic Jacobians · BDF-2 transient integration
+             C++ numerical kernels · Rust orchestration · Python UX
+
+  SYSTEMS    multi-tenant OAuth/OIDC · SvelteKit · Cloudflare Workers/D1
+             multi-cloud resilience (AWS/GCP/Azure) · Kubernetes
+             5,000+ endpoint enterprise networks · Cisco · Aruba · Juniper
+
+  PROCESS    verification-first thinking · UVM-style testbench methodology
+             cross-tier consistency tests · reference-model scoreboards
+
+WHAT I'M
+LEARNING    formal verification · DAE-split methods for stiff systems
+             advanced subthreshold MOSFET modeling
+
+CURRENTLY   finishing senior year · MWSCAS paper revisions · EN-59 bring-up
+            pending · grad school decisions in the next few weeks
+
+CONTACT     gdimartino@gabedimartino.com · gabedimartino.com
+```
+
+---
+
+```
+gabe@localhost:~$ cat now.md  # what i'm doing right now
+```
+
+The most current snapshot of what I'm working on lives at **[gabedimartino.com/now](https://gabedimartino.com/now)** — updated when the answer changes meaningfully, which is more often than you'd think.
+
+Recent writing lives at **[gabedimartino.com/writing](https://gabedimartino.com/writing)**.
+
+---
+
+```
+gabe@localhost:~$ ls -lh elsewhere/
+```
+
+- **website** · [gabedimartino.com](https://gabedimartino.com) — the full portfolio (this README is the short version)
+- **email** · gdimartino@gabedimartino.com — I answer
+- **linkedin** · [linkedin.com/in/gdimartino](https://linkedin.com/in/gdimartino)
+- **scholar** · pending — first paper under review
+
+---
+```
+gabe@localhost:~$ tail -n 1 .bashrc
+# 'Broadcasting from my room and playing with my toys'
+```
